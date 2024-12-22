@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack MERN developer specialized in creating visually<br>stunning and accessible web applications that prioritize high availability and scalability.<br>Committed to lifelong learning and embracing new challenges, seeking continuous growth and<br>improvement.
+Full-stack MERN developer specialized in creating visually stunning and accessible web applications that prioritize high availability and scalability.<br>Committed to lifelong learning and embracing new challenges, seeking continuous growth and<br>improvement.
 
 
 ## 🌐 Socials:
